@@ -1,0 +1,35 @@
+.box {
+    width: 200px;
+    background: cadetblue;
+    margin: 10px;
+    padding: 40px;
+    margin-left : auto;
+    margin-right : auto;
+    border-radius: 35px;
+    box-shadow: 10px 5px 18px 10px grey;
+}
+/*box-shadow는 숙제 
+    2~4개의 len 값을 가질 수 있음
+        2개일때 x, y 좌표 값
+        3개일때 마지막이 투명도
+        4개일때 마지막이 분산도
+*/
+
+.profilepic {
+    display : block;
+    margin-left : auto;
+    margin-right : auto;
+    width : 150px;
+}
+.heading {
+    text-align : center;
+    font-family : 'gulim';
+    font-weight: 600;
+}
+.info {
+    font-size : 16px;
+    color: white;
+    font-fmaily:'gulim';
+    letter-spacing : -1px;
+    text-align : center;
+}
