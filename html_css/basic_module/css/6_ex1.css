@@ -1,0 +1,32 @@
+.top_box {
+    height: 20%;
+    margin-bottom: 3px;
+    background-color: skyblue;
+}
+
+.left_box {
+    width: 20%;
+    height: 100%;
+    float: left;
+    background: blue;
+}
+
+.right_box {
+    margin-left: 3px;
+    width: 79%;
+    height: 100%;
+    float: right;
+    background: red;
+}
+.middle_box {
+    height: 60%;
+}
+.bottom_box {
+    margin-top: 3px;
+    height: 20%;
+    background: grey;
+}
+.layout_box {
+    height: 300px;
+    width: 300px;
+}
