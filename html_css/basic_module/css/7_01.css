@@ -7,28 +7,22 @@
 
 .left_box {
     width: 20%;
-    height: 100%;
-    float: left;
+    height: 400px;
     background-color: cornflowerblue;
+    display: inline-block;
 }
 
 .right_box {
-
     width: 80%;
-    height: 100%;
-    float: left;
-    background: red;
+    height: 400px;
+    background: coral;
+    display: inline-block;
 }
-
-.middle_box {
-    width: 100%;
-    height: 60%;
-}/* in this part dose not same to docs from coding apple becuse I find the way  to sort '<div>' */
 
 .footer {
     width: 100%;
     margin-top: 3px;
-    height: 20%;
+    height: 100px;
     background: grey;
 }
 
