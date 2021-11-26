@@ -1,3 +1,41 @@
-
 .container {
+    width: 800px;
+}
+
+.info {
+    
+}
+
+.content {
+    clear: both;
+    float: left;
+}
+
+.image {
+    width: 20%;
+    float: left;
+}
+
+.info_left {
+    float: left;
+}
+
+.info_right {
+    float: left;
+    margin-left: 10px;
+}
+
+.info_img {
+    width: 80px;
+}
+
+.text {
+    width: 80%;
+    float: left;
+}
+
+.img_size {
+    height: 200px;
+    width: 200px;
+    margin: 10px;
 }
