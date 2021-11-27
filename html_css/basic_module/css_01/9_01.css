@@ -1,5 +1,7 @@
 .container {
     width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .info {
@@ -22,7 +24,8 @@
 
 .info_right {
     float: left;
-    margin-left: 10px;
+    margin-left: 5px;
+    margin-top: 22px;
 }
 
 .info_img {
@@ -38,4 +41,22 @@
     height: 200px;
     width: 200px;
     margin: 10px;
+}
+
+.navbar li {
+    display: inline-block;
+    width: 60px;
+    text-align: center;
+    background: #eee;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.navbar a{
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.navbar a:visited {
+    color: blue;
 }
