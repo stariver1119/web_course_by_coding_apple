@@ -1,0 +1,28 @@
+
+.navbar li{
+    display: inline-block;
+    float: left;
+    text-align: center;
+    padding: 10px;
+}
+
+header {
+    background-color: limegreen;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+     height: 75px;
+  padding: 1rem;
+  color: white;
+  font-weight: bold;
+/*  display: flex;*/
+/*  justify-content: space-between;*/
+/*  align-items: center;*/
+}
+.logo {
+    float: left;
+}
+
+h2 {
+    float: left;
+}
