@@ -1,0 +1,3 @@
+# This dir is a space for practing and realize idea emerge by course.
+
+1. naver dic navbar fin but have some problems like button's border solid line was shodowed. how to...
