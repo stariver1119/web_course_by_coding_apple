@@ -1,0 +1,25 @@
+
+.main-background {
+    width: 100%;
+    height: 500px;
+    background-image: url(https://codingapple.com/wp-content/uploads/2019/06/shoes.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    filter: brightness(110%);
+    padding: 1px;
+}
+
+.main-background button{
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 15px;
+    font-size: 15px;
+    border-style: none;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+
+.info_text {
+    color: aliceblue; margin: 20px;
+}
