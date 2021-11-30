@@ -8,18 +8,32 @@
     background-position: center;
     filter: brightness(110%);
     padding: 1px;
+    position: relative;
 }
 
 .main-background button{
-    margin-left: 20px;
-    margin-top: 20px;
     padding: 15px;
     font-size: 15px;
     border-style: none;
-    border-radius: 10px;
+    border-radius: 5px;
     background-color: aliceblue;
+    position: relative;
+    left: 20px;
+    top: 20px;
 }
 
 .info_text {
     color: aliceblue; margin: 20px;
+}
+
+.box {
+    position: absolute;
+    padding: 50px;
+    background-color: beige;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: 400px;
+    width: 150px;
+    border-radius: 5px;
 }
