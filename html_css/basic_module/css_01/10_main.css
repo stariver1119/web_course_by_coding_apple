@@ -26,14 +26,16 @@
     color: aliceblue; margin: 20px;
 }
 
-.box {
+.box-explain {
+    text-align: center;
     position: absolute;
-    padding: 50px;
-    background-color: beige;
+    padding: 20px;
+    background-color: ghostwhite;
     left: 0;
     right: 0;
     margin: auto;
     top: 400px;
-    width: 150px;
+    width: 600px;
     border-radius: 5px;
+    box-sizing : border-box;
 }
