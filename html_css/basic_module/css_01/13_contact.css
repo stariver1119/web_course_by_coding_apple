@@ -1,0 +1,56 @@
+.container13 {
+    background-color: white;
+    width: 450px;
+    height: 600px;
+    padding: 50px;
+    left: 50%;
+    margin-left: -225px;
+    margin-top: -300px;
+}
+
+.body13 {
+    background-color: darkgray;
+    width: 100%;
+    height: 100%;
+/*    position: relative;
+    이거 뭔가 어떤 이유로 안됌*/
+}
+
+.input_layout {
+    width: 100%;
+    height: 30px;
+    border-radius: 3px;
+    border-width: thin;
+    font-size: 15px;
+    opacity: 80%
+}
+
+h3 {
+    font-weight: 100;
+    margin-bottom: 8px;
+}
+
+.info_name {
+    float: left;
+    width: 46%;
+}
+
+.input_message {
+    width: 100%;
+    height: 130px;
+}
+
+input {
+    box-sizing: border-box;
+}
+
+.input_send {
+    float: right;
+    width: 110px;
+    height: 28px;
+    font-size: 14px;
+    background-color: #FFBF00;
+    border-width: 0;
+    color: white;
+    border-radius: 2px;
+}
