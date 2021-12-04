@@ -1,0 +1,23 @@
+div {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+html {
+    line-height: 1.15;
+}
+.container {
+    
+}
+
+.logo {
+    font-family: "Kaushan Script";
+    text-align: center;
+    
+}
+
+a:visited {color:black}
+a { text-decoration:none } 

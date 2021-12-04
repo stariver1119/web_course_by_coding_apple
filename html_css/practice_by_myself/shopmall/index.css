@@ -1,0 +1,79 @@
+div {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+html {
+    line-height: 1.15;
+}
+.container {
+    width: 100%;
+}
+
+.logo {
+    font-family: "Kaushan Script";
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+a:visited {color:black}
+a { text-decoration:none } 
+li {
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+.navbar {
+    width: 100%;
+    text-align: center;
+    padding: 0;
+}
+
+.navbar ul {
+    margin: 0 auto;
+    width: 100%;
+    padding: 0
+}
+
+.main_img_left {
+}
+    
+
+main {
+    width: 100%;
+    text-align: center;
+}
+main img {
+    width: 400px;
+    object-fit: cover;
+    padding-top: 40px;
+}
+main div {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main_img_right {
+    
+}
+
+.buy_botton {
+    width: 110px;
+    height: 50px;
+    font-size: 16px;
+    border-style: none;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-top: 30px;
+    border-radius: 2px;
+    background-color: #F5F6CE;
+    color: #848484;
+}
