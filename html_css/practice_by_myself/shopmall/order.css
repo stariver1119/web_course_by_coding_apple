@@ -16,8 +16,81 @@ html {
 .logo {
     font-family: "Kaushan Script";
     text-align: center;
-    
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 a:visited {color:black}
-a { text-decoration:none } 
+a { text-decoration:none }
+
+li {
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+.navbar {
+    width: 100%;
+    text-align: center;
+    padding: 0;
+}
+
+.navbar ul {
+    margin: 0 auto;
+    width: 100%;
+    padding: 0
+}
+details {
+    font-size: 11px;
+    margin-top: 12px;
+}
+
+p {
+    font-size: 11px;
+}
+
+.qnaNreview {
+    float: right;
+    margin-right: 20%;
+}
+
+.detail_img {
+    width: 50%; float: left; position: relative; left: 50px; box-sizing: border-box; padding: 0;
+}
+
+.main_img {
+    width: 50%;
+    position: relative;
+    left: 50px;
+    box-sizing: border-box;
+    padding: 0;
+    margin-top: 70px;
+}
+
+.option_box {
+    width: 40%;
+    float: right;
+    margin-top: 70px;
+    text-align: left;
+    margin-left: 70px;
+}
+
+.buy_add_botn {
+    float: left;
+    width: 40%;
+    font-size: 11px;
+    border-radius: 0;
+    border-color: black;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    border-width: thin;
+}
+
+.size {
+    width: 80%;
+    height: 28px;
+    font-size: 13px;
+    opacity: 50%;
+}
