@@ -65,6 +65,21 @@ main div {
     
 }
 
+header {
+    position: fixed;
+    top: 0;
+    z-index: 12;
+    left: 0;
+    right: 0;
+    background-color: white;
+}
+
+.empty_box {
+    width: 100%;
+    height: 20%;
+    margin-top: 12%;
+}
+
 .buy_botton {
     width: 110px;
     height: 50px;

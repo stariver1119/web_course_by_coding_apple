@@ -57,24 +57,34 @@ p {
 }
 
 .detail_img {
-    width: 50%; float: left; position: relative; left: 50px; box-sizing: border-box; padding: 0;
+    width: 80%;
+    position: relative;
+    left: 100px;
+    box-sizing: border-box;
+    padding: 0;
+    z-index: 1;
 }
 
 .main_img {
-    width: 50%;
+    width: 80%;
     position: relative;
-    left: 50px;
+    left: 100px;
     box-sizing: border-box;
     padding: 0;
     margin-top: 70px;
+    z-index: 1;
 }
 
 .option_box {
     width: 40%;
     float: right;
-    margin-top: 70px;
+    position: fixed;
+    margin-top: 12%;
     text-align: left;
     margin-left: 70px;
+    top: 0;
+    right: 10px;
+    z-index: 10;
 }
 
 .buy_add_botn {
@@ -93,4 +103,23 @@ p {
     height: 28px;
     font-size: 13px;
     opacity: 50%;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    z-index: 12;
+    left: 0;
+    right: 0;
+    background-color: white;
+}
+
+.empty_box {
+    width: 100%;
+    height: 20%;
+    margin-top: 12%;
+}
+
+.img_box {
+    width: 50%;
 }
