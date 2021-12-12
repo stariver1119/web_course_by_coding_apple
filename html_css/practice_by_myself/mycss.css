@@ -1,0 +1,15 @@
+html {
+    line-height: 1.15;
+}
+
+body {
+    margin: 0;
+}
+
+div {
+    box-sizing: border-box;
+}
+
+table {
+    border-collapse: collapse;
+}
