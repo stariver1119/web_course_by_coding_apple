@@ -1,0 +1,47 @@
+.container {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 60%;
+}
+
+body {
+    background-color: #b2ccd6;
+}
+
+h2 {
+    font-weight: 400;
+    color: #133761;
+}
+
+.item {
+    width: 50%;
+    text-align: center;
+    
+
+/*   margin 값 줘야함*/
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    color: #b2ccd6;
+    background-color: white;
+    border-radius : 7px;
+    border-style : hidden;
+    box-shadow : 0 0 0 1px #b2ccd6;
+    box-sizing: border-box;
+}
+
+
+
+tr {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #b2ccd6;
+}
+
+th {
+    font-size: 13px;
+}
