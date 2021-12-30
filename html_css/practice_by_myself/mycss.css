@@ -13,3 +13,7 @@ div {
 table {
     border-collapse: collapse;
 }
+
+button {
+    cursor: pointer;
+}

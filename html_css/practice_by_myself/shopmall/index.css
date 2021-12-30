@@ -21,8 +21,12 @@ html {
     margin-bottom: 20px;
 }
 
-a:visited {color:black}
-a { text-decoration:none } 
+a:visited {
+    color:black
+}
+a {
+    text-decoration:none
+} 
 li {
     display: inline-block;
     text-align: center;
