@@ -1,0 +1,8 @@
+.font_color {
+    color: gray;
+}
+
+
+.test p:nth-child(3n+5) {
+    color: crimson;
+}
