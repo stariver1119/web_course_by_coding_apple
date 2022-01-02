@@ -1,0 +1,30 @@
+/*utility class*/
+.font_small {
+    font-size: 10px;
+}
+.font_medium{
+    font-size: 16px;
+}
+.font_lg {
+    font: 22px;
+}
+
+.bg_main {
+    background-color: aqua;
+}
+
+.bg_red {
+    background-color: red;
+}
+
+.bg_blue {
+    background-color: blue;
+}
+
+/*main class*/
+.color_btn {
+    font-size: 20px;
+    padding: 15px;
+    border: none;
+}
+
