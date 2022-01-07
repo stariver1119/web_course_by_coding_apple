@@ -1,0 +1,29 @@
+
+.container {
+    
+}
+
+.nav_flex {
+    height: 40px;
+    background-color: lawngreen;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.nav_item {
+    color: white;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.nav_button {
+    padding: 6px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size: 12px;
+    background-color: lightgreen;
+    border-width: 1px;
+    border-color: whitesmoke;
+    color: white;
+}
